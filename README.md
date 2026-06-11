@@ -25,7 +25,7 @@ Run the program:
 java StockTradingPlatform
 # Screenshots
 Main Menu
-![Main Menu](Screenshot1,png)
+![Main Menu](Screenshot(1).png)
 Portfolio
 ![Portfolio](Screenshot2.png)
 
