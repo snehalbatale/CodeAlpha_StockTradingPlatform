@@ -23,7 +23,11 @@ javac StockTradingPlatform.java
 Run the program:
 # Bash
 java StockTradingPlatform
+# Screenshots
+Main Menu
+![Main Menu](Screenshot1,png)
+Portfolio
+![Portfolio](Screenshot2.png)
 
-shekhar Batale
 Internship
 This project was developed as part of the CodeAlpha Java Programming Internship. :::
