@@ -1,8 +1,10 @@
 # CodeAlpha_StockTradingPlatform
 Java-based stock trading platform that simulates buying and selling stocks, portfolio management, and transaction tracking. 
+
 # Description
 A Java-based Stock Trading Platform that allows users to buy and sell stocks, manage their portfolio, and track transaction history. 
 This project demonstrates the use of Object-Oriented Programming concepts and Java collections.
+
 # Features
 1.View available market stocks
 
@@ -39,6 +41,13 @@ Run the program:
 
 # Bash
 java StockTradingPlatform
+
+# Screenshots
+1.Main Menu
+![Main Menu](Screenshots1.png)
+
+2.Result Window
+![Result Window](Screenshot2.png)
 
 # Internship
 This project was developed as part of the CodeAlpha Java Programming Internship. :::
