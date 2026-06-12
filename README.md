@@ -44,7 +44,7 @@ java StockTradingPlatform
 
 # Screenshots
 1.Main Menu
-![Main Menu](Screenshots1.png)
+![Main Menu](Screenshot1.png)
 
 2.Result Window
 ![Result Window](Screenshot2.png)
