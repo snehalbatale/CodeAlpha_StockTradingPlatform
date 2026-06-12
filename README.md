@@ -24,10 +24,10 @@ Run the program:
 # Bash
 java StockTradingPlatform
 # Screenshots
-Main Menu
+1.Main Menu
 ![Main Menu](Screenshot(1).png)
-Portfolio
-![Portfolio](Screenshot2.png)
+2.Result Window
+![Result Window](Screenshot2.png)
 
 Internship
 This project was developed as part of the CodeAlpha Java Programming Internship. :::
