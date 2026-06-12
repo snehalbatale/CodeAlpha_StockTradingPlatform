@@ -3,12 +3,18 @@ Java-based stock trading platform that simulates buying and selling stocks, port
 # Description
 A Java-based Stock Trading Platform that allows users to buy and sell stocks, manage their portfolio, and track transaction history. This project demonstrates the use of Object-Oriented Programming concepts and Java collections.
 # Features
-.View available market stocks
+1.View available market stocks
+
 2.Buy stocks
-.Sell stocks
-.View portfolio
-.Track transaction history
-.Manage account balance
+
+3.Sell stocks
+
+4.View portfolio
+
+5.Track transaction history
+
+6.Manage account balance
+
 # Technologies Used
 1.Java
 2.OOP Concepts
