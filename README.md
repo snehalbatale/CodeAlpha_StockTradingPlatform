@@ -25,9 +25,9 @@ Run the program:
 java StockTradingPlatform
 # Screenshots
 1.Main Menu
-![Main Menu](Screenshot(1).png)
+![Main Menu](Screenshot (1).png)
 2.Result Window
-![Result Window](Screenshot2.png)
+![Result Window](Screenshot 2.png)
 
 Internship
 This project was developed as part of the CodeAlpha Java Programming Internship. :::
